@@ -18,7 +18,7 @@
     <sapjco3.version>3.0.14</sapjco3.version>
     <common.lang3.version>3.10</common.lang3.version>
     <slf4j.version>1.7.25</slf4j.version>
-    <logback.version>1.2.3</logback.version>
+    <logback.version>1.3.12</logback.version>
     <junit.version>4.13.1</junit.version>
   </properties>
 
